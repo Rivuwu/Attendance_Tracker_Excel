@@ -56,4 +56,4 @@ Attendance is just the use case. The same architecture — consolidate scattered
 
 ---
 
-*connect on [LinkedIn]((https://www.linkedin.com/in/imamul-kabir-rivu/)).*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/imamul-kabir-rivu/).*
