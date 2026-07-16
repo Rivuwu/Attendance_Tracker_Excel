@@ -52,9 +52,8 @@ Attendance is just the use case. The same architecture — consolidate scattered
 | File | Description |
 |---|---|
 | `AttendanceTracker.xlsx` | The completed workbook — tracker, PivotTables, and chart |
-| `AttendanceTracker.xltx` | Reusable template for new tracking periods |
 | `screenshots/` | Output previews |
 
 ---
 
-*Part of my portfolio — see more at [your-portfolio-url] or connect on [LinkedIn](your-linkedin-url).*
+*connect on [LinkedIn]((https://www.linkedin.com/in/imamul-kabir-rivu/)).*
